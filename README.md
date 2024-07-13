@@ -28,5 +28,5 @@ This project is a real-time chat application developed using the MERN stack (Mon
 4. Start chatting in real-time!
 
 # ACKNOWLEDGEMENT
-Socket.IO
-MERN Stack
+* Socket.IO
+* MERN Stack
